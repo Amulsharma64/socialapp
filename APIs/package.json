@@ -4,7 +4,7 @@
   "description": "Api for our application",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Amul Sharma",
   "license": "ISC",

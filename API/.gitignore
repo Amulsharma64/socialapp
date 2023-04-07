@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore environment files
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs and build artifacts
+*.log
+*.swp
+*.bak
+*.tmp
+*.pyc
+
+# Ignore npm debugging logs
+npm-debug.log*

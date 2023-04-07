@@ -5,7 +5,7 @@ import Register from "./pages/register/Register";
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import {useContext} from "react";
 import {AuthContext} from "./context/AuthContext";
-// import Topbar from "../src/components/topbar/Topbar";
+
 function App() {
   const {user} = useContext(AuthContext);
   return (

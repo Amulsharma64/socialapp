@@ -5,10 +5,10 @@ Socialme is a social networking application that replicates the features and fun
 
 
 ## Landing Page
-![Home Page](assests/home.png "Welcome on the site")
+![Home Page](assets/home.jpg "Welcome on the site")
 
 ## Profile Page
-![Weather Page](assests/profile.png "Check Weather of your city")
+![Weather Page](assets/profile.png "Check Weather of your city")
 
 
 Additional description about the project and its features.
